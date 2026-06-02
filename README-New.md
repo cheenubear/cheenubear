@@ -108,6 +108,30 @@ My GitHub is a mix of learning, experiments, forks I study, and projects I am sh
 
 ---
 
+## GitHub Stats
+
+<div align="center">
+
+![cheenubear's GitHub stats](https://github-readme-stats.vercel.app/api?username=cheenubear&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cheenubear&layout=compact&theme=tokyonight&hide_border=true)
+
+![GitHub streak](https://streak-stats.demolab.com?user=cheenubear&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+## GitHub Trophies
+
+<div align="center">
+
+![GitHub trophies](https://github-profile-trophy.vercel.app/?username=cheenubear&theme=tokyonight&no-frame=true&margin-w=8)
+
+</div>
+
+---
+
 ## GitHub Activity
 
 <div align="center">
