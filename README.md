@@ -2,7 +2,7 @@
 
 # Manigandan V
 
-### Member of Technical Staff | OSS/BSS Presales | Oracle Communications
+### Senior Application Software Engineer | OSS/BSS Presales | Oracle Communications
 
 I help turn complex telecom requirements into practical, production-ready solution designs across order orchestration, service fulfillment, inventory, activation, and lifecycle management.
 
@@ -15,7 +15,7 @@ I help turn complex telecom requirements into practical, production-ready soluti
 
 ## About
 
-I am a Member of Technical Staff with 9+ years of experience delivering high-impact presales solutions across OSS/BSS domains, with a strong focus on Oracle Communications.
+I am a Senior Application Software Engineer with 9+ years of experience delivering high-impact presales solutions across OSS/BSS domains, with a strong focus on Oracle Communications.
 
 My work sits between business and engineering: I translate customer goals, telco operating models, and integration constraints into scalable, secure, and demo-ready architectures. I have led complex POCs, solution accelerators, and technical demos that connect business outcomes with real implementation detail.
 
