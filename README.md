@@ -184,6 +184,7 @@ My GitHub is a mix of learning, experiments, forks I study, and projects I am sh
 </div>
 
 ---
+
 ## GitFut Card
 
 <div align="center">
@@ -191,6 +192,7 @@ My GitHub is a mix of learning, experiments, forks I study, and projects I am sh
 ![Manigandan's Gitfut Card](https://gitfut.com/cheenubear)
 
 </div>
+
 ---
 
 ## Connect
