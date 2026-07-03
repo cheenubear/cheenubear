@@ -188,8 +188,8 @@ My GitHub is a mix of learning, experiments, forks I study, and projects I am sh
 ## GitFut Card
 
 <div align="center">
-  
-![Manigandan's Gitfut Card](https://gitfut.com/cheenubear)
+
+  [![My GitFut card](https://gitfut.com/cheenubear.png)](https://gitfut.com/cheenubear)
 
 </div>
 
