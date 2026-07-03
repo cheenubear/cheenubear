@@ -184,6 +184,10 @@ My GitHub is a mix of learning, experiments, forks I study, and projects I am sh
 </div>
 
 ---
+<div align="center">
+[![My GitFut card](https://gitfut.com/cheenubear.png)](https://gitfut.com/cheenubear)
+</div>
+---
 
 ## Connect
 
